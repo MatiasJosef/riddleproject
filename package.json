@@ -1,0 +1,12 @@
+{
+  "name": "eleganthelper",
+  "version": "1.0.0",
+  "main": "core.js",
+  "scripts": {
+    "start": "node core.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
